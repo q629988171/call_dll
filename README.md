@@ -10,5 +10,5 @@
 ## TODO
 - [x] Python
 - [x] 易语言
-- [ ] C++
+- [x] C++
 - [ ] Delphi
