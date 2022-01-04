@@ -11,4 +11,4 @@
 - [x] Python
 - [x] 易语言
 - [x] C++
-- [ ] Delphi
+- [x] Delphi
